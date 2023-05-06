@@ -18,7 +18,7 @@ function Navbar(props) {
 }
 
 export function Auth() {
-  const [showLogin, setShowLogin] = useState(false);
+  const [showLogin, setShowLogin] = useState(true);
   const [showRegister, setShowRegister] = useState(false);
 
   const handleLoginClick = () => {

@@ -1,13 +1,16 @@
 import React, { useState } from "react";
+import { useNavigate } from 'react-router-dom';
 import "./auth.css";
 
 export const Login = (props) => {
+    const navigate = useNavigate();
     const [email, setEmail] = useState('');
     const [pass, setPass] = useState('');
 
     const handleSubmit = (e) => {
         e.preventDefault();
         console.log(email);
+        navigate('/home', {replace: true});
     }
 
     return (

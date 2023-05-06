@@ -6,7 +6,7 @@ import { About } from "../pages/About";
 
 export default function App() {
   return (
-    <div className="App">
+    <div>
         <BrowserRouter>
             <Routes>
                 <Route path="/" element={<Auth />} />
