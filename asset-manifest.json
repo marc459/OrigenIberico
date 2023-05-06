@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OrigenIberico/static/css/main.7d522cd5.css",
+    "main.js": "/OrigenIberico/static/js/main.6ba33c0e.js",
+    "static/media/cow.gif": "/OrigenIberico/static/media/cow.c61f9e0002d30418d940.gif",
+    "index.html": "/OrigenIberico/index.html",
+    "main.7d522cd5.css.map": "/OrigenIberico/static/css/main.7d522cd5.css.map",
+    "main.6ba33c0e.js.map": "/OrigenIberico/static/js/main.6ba33c0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d522cd5.css",
+    "static/js/main.6ba33c0e.js"
+  ]
+}
