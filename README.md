@@ -21,11 +21,11 @@ Esto es un prototipo visual de la aplicación. Que consiste en la visualización
 
 Tecnología blockchain.
 
-Programación web.
+React,Javascript.
 
 ## Modo de uso
 
-    npm i && npm start.
+    npm i && npm start
 
 
 
