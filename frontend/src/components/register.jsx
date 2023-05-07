@@ -13,7 +13,7 @@ export const Register = (props) => {
     const handleSubmit = (e) => {
         e.preventDefault();
         console.log(email);
-        navigate('/home', {replace: true});
+        navigate('/cow/cow1', {replace: true});
     }
 
     return (
