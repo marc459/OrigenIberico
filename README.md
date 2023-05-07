@@ -1,4 +1,4 @@
-# ORIGENIBERICO
+# ORIGEN IBERICO
 
 ## Descripción
 Proyecto que impulsa el comercio rural para la conservación de la denominación de origen.
@@ -23,7 +23,7 @@ Tecnología blockchain.
 
 Programación web.
 
-## Usage
+## Modo de uso
 
     npm i && npm start.
 
