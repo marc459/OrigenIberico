@@ -18,9 +18,9 @@ Para utilizar la plataforma, los ganaderos deben registrarse en la plataforma y 
 Esto es un prototipo visual de la aplicación. Que consiste en la visualización de un producto que ha sido guardado y trazado en la blockchain.
 
 ## Tecnologías utilizadas
-Tecnología blockchain
-Programación web
-npm i && npm start
+Tecnología blockchain.
+Programación web.
+npm i && npm start.
 
 ## Contribuir
 Si deseas contribuir al desarrollo de la plataforma, puedes hacer un fork del repositorio y hacer tus propias modificaciones. Luego puedes enviar un pull request para que se revise y se integren tus cambios en el repositorio principal.
