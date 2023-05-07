@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 .home {
-    padding-top: 100px;
+    padding-top: 50px;
     min-height: 100vh;
     background: rgb(101, 12, 12);
     background-image: url("../../public/imgs/noise.png");
@@ -8,7 +9,7 @@
     /* background-size: cover; */
 }
 .home-grid {
-
+    font-family: 'Cinzel', serif;
     display: flex;
     justify-content: center;
 }
@@ -17,13 +18,26 @@ body {
     margin: 0 auto;
     padding: 0;
     background: #222;
-  }
-  
-  .cow-card
-  {
-    background-color: rgb(238, 229, 60);
-    padding: 30px;
-    border-radius: 30px;
-    border: 5px solid rgb(101, 12, 12);
-    width: fit-content;
-  }
+}
+
+.home h1{
+  background-color: aliceblue;
+}
+
+.home .btn-search{
+    background-color: none; /* color de fondo del botón */
+    width: 20px;
+    height: 30px;
+    background-image: url('../../public/imgs/searchlogo.png');
+    background-size: 100% 100%;
+    border: initial; /* establecer el borde a su valor inicial */
+    background-color: initial; /* establecer el color de fondo a su valor inicial */
+    color: initial;/* agregar una transición suave al color de fondo del botón */
+    border: 1px solid white;
+}
+.home input{
+  border-radius: 20px;
+  height: 5px;
+  width: 30%;
+}
+
