@@ -7,7 +7,7 @@ export function Home() {
     <div className="home">
       <div className="home-grid">
           <div class="cow-card">
-            <img alt="" src="./imgs/cow1.png"/>
+            <img alt="" src="/OrigenIberico/imgs/cow1.png"/>
             <h2>Barbara</h2>
             <p>Jaén</p>
             <p>Fecha de muerte: 30-04-2023</p>
