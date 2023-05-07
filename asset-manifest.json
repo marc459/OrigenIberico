@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f5e0b59.css",
-    "main.js": "/static/js/main.5af04696.js",
-    "static/media/cow.gif": "/static/media/cow.c61f9e0002d30418d940.gif",
-    "static/media/noise.png": "/static/media/noise.6ab9c4f0c2e1d40ae9a9.png",
-    "index.html": "/index.html",
-    "main.0f5e0b59.css.map": "/static/css/main.0f5e0b59.css.map",
-    "main.5af04696.js.map": "/static/js/main.5af04696.js.map"
+    "main.css": "/OrigenIberico/static/css/main.b2bba1f8.css",
+    "main.js": "/OrigenIberico/static/js/main.5af04696.js",
+    "static/media/cow.gif": "/OrigenIberico/static/media/cow.c61f9e0002d30418d940.gif",
+    "static/media/noise.png": "/OrigenIberico/static/media/noise.6ab9c4f0c2e1d40ae9a9.png",
+    "index.html": "/OrigenIberico/index.html",
+    "main.b2bba1f8.css.map": "/OrigenIberico/static/css/main.b2bba1f8.css.map",
+    "main.5af04696.js.map": "/OrigenIberico/static/js/main.5af04696.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f5e0b59.css",
+    "static/css/main.b2bba1f8.css",
     "static/js/main.5af04696.js"
   ]
 }
