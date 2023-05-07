@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/OrigenIberico/static/css/main.069f6605.css",
-    "main.js": "/OrigenIberico/static/js/main.1dfd4044.js",
+    "main.js": "/OrigenIberico/static/js/main.b53c7072.js",
     "static/media/cow.gif": "/OrigenIberico/static/media/cow.c61f9e0002d30418d940.gif",
     "static/media/noise.png": "/OrigenIberico/static/media/noise.6ab9c4f0c2e1d40ae9a9.png",
     "static/media/searchlogo.png": "/OrigenIberico/static/media/searchlogo.c834fc79781d6d3219c0.png",
     "index.html": "/OrigenIberico/index.html",
     "main.069f6605.css.map": "/OrigenIberico/static/css/main.069f6605.css.map",
-    "main.1dfd4044.js.map": "/OrigenIberico/static/js/main.1dfd4044.js.map"
+    "main.b53c7072.js.map": "/OrigenIberico/static/js/main.b53c7072.js.map"
   },
   "entrypoints": [
     "static/css/main.069f6605.css",
-    "static/js/main.1dfd4044.js"
+    "static/js/main.b53c7072.js"
   ]
 }
