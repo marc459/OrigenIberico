@@ -27,8 +27,8 @@ Programación web.
 
     npm i && npm start.
 
-## Contribuir
-Si deseas contribuir al desarrollo de la plataforma, puedes hacer un fork del repositorio y hacer tus propias modificaciones. Luego puedes enviar un pull request para que se revise y se integren tus cambios en el repositorio principal.
+
+
 
 
 ## Créditos
