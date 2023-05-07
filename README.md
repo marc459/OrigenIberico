@@ -10,6 +10,10 @@ El programa utiliza tecnología blockchain para registrar y verificar la informa
 
 Además, la plataforma también ofrece herramientas para que los consumidores puedan acceder a esta información a través de un código QR que se puede escanear en el paquete del producto. De esta manera, los consumidores pueden conocer la procedencia y la calidad de los productos que compran.
 
+## Presentación
+[Origen Ibérico](https://docs.google.com/presentation/d/1C5Q7OeQhf80qSjGu6G9sNdk-hKBy2XeP6Qjz1zTQbKA/edit?usp=sharing)
+
+
 ## Requisitos
 El programa está diseñado para ser ejecutado en una plataforma web, y se requiere conexión a internet para poder acceder a la plataforma.
 
@@ -26,8 +30,6 @@ React,Javascript.
 ## Modo de uso
 
     npm i && npm start
-
-
 
 
 
