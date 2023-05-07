@@ -27,6 +27,14 @@ Tecnología blockchain.
 
 React,Javascript.
 
+# SOBRE ESTA DEMO DEDICADA A LA HACKATON 
+
+Esto es un prototipo visual de la aplicación. Que consiste en la visualización de un producto que ha sido guardado y trazado en la blockchain.
+
+# USO DE LA APLICACIÓN 
+
+npm i && npm start
+
 ## Modo de uso
 
     npm i && npm start
